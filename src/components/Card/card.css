@@ -1,0 +1,11 @@
+.card {
+    background: navajowhite;
+    width: fit-content;
+    padding: 1.5rem;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px black;
+
+    &:hover {
+        background-color: lightsteelblue;
+    }
+}

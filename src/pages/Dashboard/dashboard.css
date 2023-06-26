@@ -1,0 +1,18 @@
+.card-img {
+    width: 15rem;
+}
+
+.wrapper-product {
+    max-width: 100%;
+    display: flex;
+    gap: 10px;
+    padding: 2rem;
+    flex-wrap: wrap;
+}
+
+.wrapper-action {
+    display: flex;
+    padding: 1rem 2rem;
+    justify-content: space-around;
+}
+
